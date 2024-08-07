@@ -4,7 +4,7 @@
 
 Something about the app 
 
-# [Download ](https://github.com/GoncharMV/Fandom_Guess/raw/main/fandom_guess.apk)
+# 🔗 [Download ](https://github.com/GoncharMV/Fandom_Guess/raw/main/fandom_guess.apk) 
 
 # Installation
 1. Download the .apk file
